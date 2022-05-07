@@ -11,4 +11,4 @@ Como foi desenvolvido de forma simples, a sua utilização também é facilitada
 1. Faça o clone do repositório em uma pasta local
         
         git clone https://github.com/giovanef16-sys/Gerador-de-Senha.git
-2. Abra com o navegador o arquivo **index.html**
+2. Abra o arquivo **index.html** com o seu navegador
