@@ -9,6 +9,5 @@ com o padrão escolhido.
 
 Como foi desenvolvido de forma simples, a sua utilização também é facilitada
 1. Faça o clone do repositório em uma pasta local
-
-    git clone https://github.com/giovanef16-sys/Gerador-de-Senha.git
+        git clone https://github.com/giovanef16-sys/Gerador-de-Senha.git
 2. Abra com o navegador o arquivo **index.html**
