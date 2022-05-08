@@ -14,3 +14,6 @@ Como foi desenvolvido de forma simples, a sua utilização também é facilitada
         
         git clone https://github.com/giovanef16-sys/Gerador-de-Senha.git
 2. Abra o arquivo **index.html** com o seu navegador
+
+### Imagem da aplicação
+![](imagem.png)
