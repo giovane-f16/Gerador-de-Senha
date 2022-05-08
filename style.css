@@ -11,7 +11,8 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
+    min-height: 60vh;
+    flex-direction: column;
 }
 .pw-container{
     width: 400px;
