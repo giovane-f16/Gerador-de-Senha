@@ -12,7 +12,6 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 60vh;
-    flex-direction: column;
 }
 .pw-container{
     width: 400px;
