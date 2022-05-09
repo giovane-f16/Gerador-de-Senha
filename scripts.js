@@ -1,4 +1,4 @@
-const PwE1 = document.getElementById("pw");
+const PwEl = document.getElementById("pw");
 const copyEl = document.getElementById("copy");
 
 const lenEl = document.getElementById("len");
@@ -31,14 +31,14 @@ function getSymbol(){
     return symbol[Math.floor(Math.random() * symbol.length)];
 }
 
-function generatePassword() {
+function generatePassword(){
     const len = lenEl.value;
     let password = "";
     for (let i = 0; i < len; i++){
         const x = generateX();
         password += x;
     }
-    PwE1.innerText = password;
+    PwEl.innerText = password;
 }
 
 function generateX(){
@@ -66,7 +66,7 @@ copyEl.addEventListener("click", () => {
     const password = PwEl.innerText;
     if (!password) {  
         return;  
-    }  
+    } 
     textarea.value = password;  
     document.body.appendChild(textarea);  
     
@@ -74,5 +74,6 @@ copyEl.addEventListener("click", () => {
     document.execCommand("copy");  
     
     textarea.remove();  
-    alert("password copied to clipboard");  
+    alert("Senha copiada!");  
+    
  });  
