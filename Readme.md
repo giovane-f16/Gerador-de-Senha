@@ -2,7 +2,7 @@
 
 ## Aplicação que gera uma senha aleatória
 
-Feito em HTML, CSS e JavaScript, essa aplicação gera uma senha, sem restrição de quantidade de caracteres (por questões de segurança e funcionalidade, recomendado uma senha com no mínimo 7 e no máximo 16) podendo conter letras maiúsculas, minúsculas, números e caracteres especiais ~!@#$%^&*()_+=| de acordo com o padrão escolhido.
+   Feito em HTML, CSS e JavaScript, essa aplicação gera uma senha, sem restrição de quantidade de caracteres (por questões de segurança e funcionalidade, recomendado uma senha com no mínimo 7 e no máximo 16) podendo conter letras maiúsculas, minúsculas, números e caracteres especiais ~!@#$%^&*()_+=| de acordo com o padrão escolhido.
 
 Caso queira acessar diretamente [clique aqui.](https://giovanef16-sys.github.io/Gerador-de-Senha/)
 
@@ -14,5 +14,7 @@ Como foi desenvolvido de forma simples, a sua utilização também é facilitada
         git clone https://github.com/giovanef16-sys/Gerador-de-Senha.git
 2. Abra o arquivo **index.html** com o seu navegador.
 
-### Imagem da aplicação
-![](imagem.png)
+### Preview
+
+![image](https://user-images.githubusercontent.com/63614241/168703691-47cc5008-ef17-4b28-bbe1-3df75f9f3a0c.png)
+
