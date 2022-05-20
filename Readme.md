@@ -4,7 +4,7 @@
 
    Feito em HTML, CSS e JavaScript, essa aplicação gera uma senha, sem restrição de quantidade de caracteres (por questões de segurança e funcionalidade, recomendado uma senha com no mínimo 7 e no máximo 16) podendo conter letras maiúsculas, minúsculas, números e caracteres especiais ~!@#$%^&*()_+=| de acordo com o padrão escolhido.
 
-Caso queira acessar diretamente [clique aqui.](https://giovanef16-sys.github.io/Gerador-de-Senha/)
+Caso queira acessar diretamente [clique aqui.](https://giovane-f16.github.io/Gerador-de-Senha/)
 
 ## Instalação
 
